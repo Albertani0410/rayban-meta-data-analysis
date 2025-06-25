@@ -23,4 +23,21 @@ This folder contains all visual representation files generated from the cleaned 
 
 ---
 
+## 1️⃣ YoY Sales Growth (Bar Chart)
+
+![YoY Growth](Bar_Chart/yoy_growth.png)  
+[🔗 View Full Size](Bar_Chart/yoy_growth.png)
+
+## 2️⃣ Market Share Breakdown (Pie Chart)
+
+![Market Share](Pie_Chart/market_share.png)  
+[🔗 View Full Size](Pie_Chart/market_share.png)
+
+## 3️⃣ Sales Trend Over Time (Line Chart)
+
+![Sales Trend](Line_Chart/sales_trend.png)  
+[🔗 View Full Size](Line_Chart/sales_trend.png)
+
+---
+
 Keeping the visualizations well-organized ensures effective presentation and easier updates for future analyses.
