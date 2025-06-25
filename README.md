@@ -4,13 +4,32 @@
 
 This project analyzes the sales performance, growth trends, and market share of Ray-Ban Meta smart glasses from launch through projected future years. It aims to provide insights into market dynamics, product adoption, and competitive positioning using cleaned data and visualizations.
 
-## Data Description
+## 📂 Project Structure
 
-- **Raw_Data**: Contains the original unprocessed data and notes collected from various sources.
-- **Clean_Data**: Includes the cleaned CSV data with estimated sales, YoY growth, and market share figures.
-- **Reports**: Contains markdown reports summarizing data analysis and insights.
-- **References**: Lists all sources, articles, and data references used in the project.
-- **Visualizations**: Contains PNG images of charts such as sales trends, growth rates, and market share distributions.
+- [Raw Data](Raw_Data/)  
+  Contains the original collected data and notes.
+
+- [Clean Data](Clean_Data/)  
+  Processed and cleaned CSV files ready for analysis.
+
+- [Reports](Reports/)  
+  Detailed analysis reports and summaries.
+
+- [References](References/)  
+  Sources and literature referenced in this project.
+
+- [Visualizations](Visualizations/)  
+  Graphs and charts illustrating sales trends and AI adoption.
+
+---
+
+## 📈 Highlights
+
+- [Sales Report Summary](Reports/Ray-Ban_Meta_Sales_Report.md)  
+- [Raw Data Details](Raw_Data/Ray-Ban_Meta_Raw_Data.md)  
+- [Data Visualization Samples](Visualizations/README.md)  
+
+---
 
 ## How to Use
 
