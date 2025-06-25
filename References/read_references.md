@@ -1,13 +1,18 @@
 # References
 
-此資料夾收錄本專案所使用的所有資料來源與參考文獻。
+This folder contains documentation and files related to all data sources and references used throughout the Ray-Ban Meta smart glasses analysis project.
 
-## 內容說明
-- 官方財報
-- 市場調查報告
-- 相關新聞文章
-- 其他外部資料連結
+## Purpose
+
+- To keep track of original data sources, reports, articles, and any external information referenced.
+- To ensure transparency and traceability of data used in cleaning, analysis, and visualization.
+- To separate raw data sources from processed data and analysis reports.
+
+## Contents
+
+- `Ray-Ban_Meta_References.md`: Main document listing all referenced sources with descriptions and links.
+- Additional files or documents related to specific references (if any).
 
 ---
 
-參考資料是分析的依據，確保資訊來源的可靠性與透明度。
+Keeping this folder organized helps maintain clear documentation and facilitates updates or reviews by team members or collaborators.
