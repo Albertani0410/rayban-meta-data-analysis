@@ -1,0 +1,27 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# 讀取資料
+df = pd.read_csv('Clean_Data/rayban_meta_sales_clean.csv')
+
+# 去除沒有銷量數字的年份（例如 2023）
+df = df[df['Estimated Sales (Units)'] != '-']
+
+# 轉換銷量為數字
+df['Estimated Sales (Units)'] = df['Estimated Sales (Units)'].astype(int)
+
+# 畫圖
+plt.figure(figsize=(8, 5))
+sns.lineplot(x='Year', y='Estimated Sales (Units)', data=df, marker='o', linewidth=2.5)
+
+plt.title('Ray-Ban Meta 銷量預估趨勢圖', fontsize=16)
+plt.xlabel('年份')
+plt.ylabel('預估銷量（單位）')
+plt.grid(True)
+plt.tight_layout()
+
+# 儲存圖片
+plt.savefig('Visualizations/Line_Chart/sales_trend.png')
+plt.show()
+
