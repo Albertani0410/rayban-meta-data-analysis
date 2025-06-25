@@ -1,24 +1,26 @@
-# Ray-Ban Meta Data Analysis
+# Visualizations
 
-本專案為 Ray-Ban Meta 智能眼鏡之資料分析，涵蓋銷量成長、市場市佔、AI 功能發展與未來趨勢。
+This folder contains all visual representation files generated from the cleaned data for the Ray-Ban Meta smart glasses project.
 
-## 📂 專案結構
-- `Raw_Data/`：原始資料整理
-- `Clean_Data/`：清理後可用數據（CSV）
-- `Reports/`：分析報告與結論
-- `References/`：參考文獻與資料來源
-- `Visualizations/`：資料視覺化圖表
+## Purpose
 
-## 📝 專案重點
-- 銷售數據年增率達 300%
-- 市佔率超過 60%，持續擴展新市場
-- 核心 AI 功能包含即時翻譯、物體識別、無手持直播
+- To provide graphical insights into sales trends, growth patterns, and market share distribution.
+- To support the analysis through clear and informative charts and graphs.
+- To facilitate communication of data-driven findings to stakeholders.
 
-## 🔍 後續建議
-- 深入蒐集年度財報數據
-- 擴展 AI 功能採用率分析
-- 與其他競爭產品比較（Google、Apple、Amazon）
+## Contents
+
+- **Line_Chart/**: Line charts illustrating sales trends over time.
+- **Bar_Chart/**: Bar charts showing year-over-year (YoY) growth percentages.
+- **Pie_Chart/**: Pie charts depicting market share breakdown among competitors.
+- **README.md**: This document describing the folder's purpose and structure.
+
+## Notes
+
+- All visualization files are saved in PNG format.
+- File naming conventions follow the chart type and content for easy identification.
+- Visualizations are generated using Python libraries such as Matplotlib and Seaborn.
 
 ---
 
-作者：Albert Chen
+Keeping the visualizations well-organized ensures effective presentation and easier updates for future analyses.
