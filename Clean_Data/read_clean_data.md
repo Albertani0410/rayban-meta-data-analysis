@@ -1,14 +1,22 @@
-# Clean_Data
+# Clean Data
 
-此資料夾包含清理後、可直接使用的 Ray-Ban Meta 智能眼鏡分析數據。
+This folder contains the cleaned and processed data used for analysis and visualization in the Ray-Ban Meta smart glasses project.
 
-## 資料內容
-- 已移除遺失值
-- 已處理格式錯誤
-- 單位與時間軸已統一
+## File Description
 
-## 檔案說明
-- `rayban_meta_sales_clean.csv`：主要清理後的銷量資料，適用於視覺化與深入分析。
+### `rayban_meta_sales_clean.csv`
 
-## 資料狀態
-- 已準備好進行視覺化與後續統計分析。
+This CSV file contains the estimated sales, year-over-year (YoY) growth rates, market share percentages, and notes for Ray-Ban Meta smart glasses from 2023 to 2027.
+
+| Column Name             | Description                                      |
+|-------------------------|------------------------------------------------|
+| `Year`                  | The calendar year of the data point             |
+| `Estimated Sales (Units)`| Estimated number of units sold in that year     |
+| `YoY Growth (%)`        | Year-over-year percentage growth in sales       |
+| `Market Share (%)`      | Estimated market share percentage for the year |
+| `Notes`                 | Additional comments or context about the data   |
+
+## Usage
+
+- This cleaned data file is used as the primary data source for generating sales trend line charts, YoY growth bar charts, and market share pie charts.
+- The data is projected from 2023 to 2027 to provide a consistent basis for visualization and analysis.
