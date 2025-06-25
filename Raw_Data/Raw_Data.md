@@ -38,4 +38,4 @@
 ---
 
 ## 備註：
-此檔案為初步原始資料彙整，部分數據後續將補充更多年度財報與市場調查數據。
+This file contains a preliminary compilation of raw data. Additional financial reports and market research data will be supplemented in future updates.
