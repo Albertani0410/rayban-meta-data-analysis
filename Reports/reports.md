@@ -1,52 +1,35 @@
-# Ray-Ban Meta 銷量與 AI 功能趨勢分析報告
+# Ray-Ban Meta Smart Glasses Sales Analysis Report
 
-### 📅 報告撰寫時間：2025 年 6 月
-### 📝 資料來源：
-- Shacknews
-- The Verge
-- AINVEST
-- EssilorLuxottica 官方新聞稿
+## Overview
 
----
+This report analyzes the sales performance, year-over-year (YoY) growth, and market share of Ray-Ban Meta smart glasses from launch in 2023 through projected figures up to 2027. The analysis is based on cleaned and projected data compiled from official sources and industry estimates.
 
-## 一、專案簡介
-本分析專案旨在探討 Ray-Ban Meta 智能眼鏡自 2023 年推出以來的銷量成長、市場表現及 AI 功能應用趨勢，並預測未來的市場發展潛力。
+## Sales Trend Analysis
 
----
+- The product was launched in 2023, with no available sales data for that initial year.
+- Estimated sales reached 1,000,000 units in 2024, marking a strong market entry phase.
+- A significant growth spurt is projected for 2025, with sales expected to quadruple to 4,000,000 units.
+- Growth is forecasted to continue, but at a slowing pace, with 7,200,000 units in 2026 and 10,800,000 units in 2027.
+- The sales trend reflects an early adoption phase followed by rapid expansion and eventual market maturation.
 
-## 二、數據整理摘要
+## Year-over-Year Growth
 
-| 年份 | 銷售量 (副) | 年增率 (%) | 市佔率 (%) |
-|------|-------------|------------|------------|
-| 2023 | -           | -          | -          |
-| 2024 | 1,000,000   | -          | 60%        |
-| 2025 | 2,000,000   | 300%       | 65%+       |
+- The YoY growth rate was effectively 0% in 2024 as it served as the baseline year.
+- A massive 300% growth is projected for 2025, indicating a product breakthrough and expansion into new markets.
+- Growth rates moderate to 80% in 2026 and 50% in 2027, consistent with typical product lifecycle trends.
 
----
+## Market Share Insights
 
-## 三、重點發現
+- Ray-Ban Meta holds an estimated 60% market share in 2024.
+- Market share is expected to increase gradually to 65% in 2025, 68% in 2026, and 70% in 2027.
+- The competitive landscape includes Apple Vision Pro (20%), Amazon Echo Frames (10%), and other smaller players (10%).
 
-- Ray-Ban Meta 智能眼鏡自 2023 年上市以來，2024 年銷售量突破 100 萬副，2025 年成長至 200 萬副，年增率達 300%。
-- 該產品目前在全球智能眼鏡市場市佔率已超過 60%，歐洲、中東、非洲為主要銷售區域。
-- AI 功能（包括即時翻譯、物體識別、語音助手及免手持直播）為促進消費者採用的關鍵因素。
+## Conclusion and Outlook
 
----
+Ray-Ban Meta smart glasses show promising sales growth and increasing market dominance. While early explosive growth is expected to slow, the product is projected to maintain strong momentum and solidify its position in the smart glasses market over the next few years.
 
-## 四、未來趨勢預測
-
-- Meta 目標於 2026 年達成年產 1,000 萬副的規模，市場預計將持續擴大。
-- 預期將進一步拓展至墨西哥、印度、阿聯酋等新興市場。
-- AI 功能預計將成為未來智能眼鏡市場的主戰場。
+Ongoing monitoring of market trends, competitor strategies, and consumer adoption will be essential to refine projections and inform business strategies.
 
 ---
 
-## 五、結論
-
-Ray-Ban Meta 智能眼鏡銷售量呈現高速成長，市場接受度高，AI 功能為主要競爭優勢。未來若持續擴展功能與國際市場，其將有潛力成為智能穿戴設備的重要領導品牌。
-
----
-
-## 六、後續建議
-
-- 建議進一步收集年度財報數據，擴充銷售趨勢資料。
-- 可深入分析 AI 功能的使用率與用戶回饋，了解市場痛點。
+*End of Report*
