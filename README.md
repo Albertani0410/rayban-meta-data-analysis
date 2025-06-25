@@ -25,8 +25,8 @@ This project analyzes the sales performance, growth trends, and market share of 
 
 ## 📈 Highlights
 
-- [Sales Report Summary](Reports/Ray-Ban_Meta_Sales_Report.md)  
-- [Raw Data Details](Raw_Data/Ray-Ban_Meta_Raw_Data.md)  
+- [Sales Report Summary](Reports/Sales_Report.md)  
+- [Raw Data Details](Raw_Data/Raw_Data.md)  
 - [Data Visualization Samples](Visualizations/README.md)  
 
 ---
