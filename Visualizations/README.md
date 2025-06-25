@@ -1,48 +1,26 @@
-# Ray-Ban Meta 智能眼鏡 - 視覺化圖表
+# Visualizations
 
-本資料夾收錄針對 Ray-Ban Meta 智能眼鏡銷售趨勢、市佔率與 AI 功能發展的視覺化圖表。
+This folder contains all visual representation files generated from the cleaned data for the Ray-Ban Meta smart glasses project.
 
----
+## Purpose
 
-## 📊 視覺化圖表項目
+- To provide graphical insights into sales trends, growth patterns, and market share distribution.
+- To support the analysis through clear and informative charts and graphs.
+- To facilitate communication of data-driven findings to stakeholders.
 
-1. **年度銷售趨勢圖**  
-   - 顯示 2024 ~ 2025 年 Ray-Ban Meta 智能眼鏡銷量成長趨勢  
-   - 圖表類型：折線圖（Line Chart）
+## Contents
 
-2. **市佔率圓餅圖**  
-   - 顯示 2024 年市場市佔比例，突出 Ray-Ban Meta 智能眼鏡在全球市場的優勢  
-   - 圖表類型：圓餅圖（Pie Chart）
+- **Line_Chart/**: Line charts illustrating sales trends over time.
+- **Bar_Chart/**: Bar charts showing year-over-year (YoY) growth percentages.
+- **Pie_Chart/**: Pie charts depicting market share breakdown among competitors.
+- **README.md**: This document describing the folder's purpose and structure.
 
-3. **年度 YoY 成長長條圖**  
-   - 顯示年度銷售年增率變化，便於觀察市場爆發點  
-   - 圖表類型：長條圖（Bar Chart）
+## Notes
 
----
-
-## 📂 資料夾結構建議
-
-- `Line_Chart/`  
-  儲存年度銷售趨勢折線圖
-  
-- `Pie_Chart/`  
-  儲存市佔率圓餅圖
-  
-- `Bar_Chart/`  
-  儲存年度成長長條圖
+- All visualization files are saved in PNG format.
+- File naming conventions follow the chart type and content for easy identification.
+- Visualizations are generated using Python libraries such as Matplotlib and Seaborn.
 
 ---
 
-## 🔧 圖表製作工具建議
-
-- Excel
-- Google Sheets
-- Python（可選，用於進階繪圖）
-- Canva（適合快速製作美觀圖表）
-
----
-
-## 📌 小提醒
-所有圖表製作完成後，請儲存為 PNG 或 JPG 圖檔，並分別放入對應資料夾。
-
-如有需要，可附上簡單的說明文字檔。
+Keeping the visualizations well-organized ensures effective presentation and easier updates for future analyses.
