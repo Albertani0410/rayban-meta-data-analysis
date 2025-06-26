@@ -53,4 +53,11 @@ This project analyzes the sales performance, growth trends, and market share of 
 
 ---
 
+## 🔐 License
+
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and share this project, but please give credit to the original author.
+
+---
+
 *Thank you for exploring the Ray-Ban Meta smart glasses data analysis project!*
